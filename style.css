@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+center {
+    box-shadow: 1px 1px 38px black;
+    width: 100%;
+}
+#note {
+    color: black;
+}
+canvas { 
+    background-color: gray;
+    border-radius: 15px;
+    border-color:white;
+    border-width: 7px;
+    border-style: solid;
+    box-shadow: 2px 5px 3px gray;
+}
+#footer {
+    position:fixed;
+    background-color:gray;
+    color: white;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
